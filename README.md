@@ -13,7 +13,7 @@
 <ul>
   <li><img src="img/readme/f1653c.png" alt="Icone de Cor"> #f1653c</li>
   <li><img src="img/readme/ccc9a1.png" alt="Icone de Cor"> #ccc9a1</li>
-  <li>#f0ffce</li>
-  <li>#4c230a</li>
-  <li>#280004</li>
+  <li><img src="img/readme/f0ffce.png" alt="Icone de Cor"> #f0ffce</li>
+  <li><img src="img/readme/4c230a.png" alt="Icone de Cor"> #4c230a</li>
+  <li><img src="img/readme/280004.png" alt="Icone de Cor"> #280004</li>
 </ul>
