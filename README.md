@@ -1,3 +1,7 @@
 # 📋 Bem Vindo ao Meus Projetos Testes!
 
-![alt](https://github.com/lfelipe-sant/correio/blob/main/gato.png)
+Cores Principais:
+
+<ul>
+  <li>#f1653c</li>
+</ul>
