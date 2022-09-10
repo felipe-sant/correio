@@ -1,10 +1,9 @@
-# &#x1F4CB Bem Vindo ao Meus Projetos Testes!
+<h1> &#x1F4CB Bem Vindo ao Meus Projetos Testes! </h1>
 
-<h1>Sobre o Projeto</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis tempore dolorum sunt labore, hic repellat, voluptas quidem vel animi quod consectetur quae culpa eligendi est eius, esse optio qui? Itaque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum qui perspiciatis distinctio debitis numquam reprehenderit voluptate odit, molestias, ab pariatur, praesentium sunt quidem sint itaque laboriosam dolorum fugiat inventore? Hic?</p>
+<h2>Sobre o Projeto</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat a modi eos debitis tempora explicabo expedita natus dolore, minus, maiores commodi, sunt quos! Esse doloribus natus odit assumenda quia exercitationem?</p>
 
 <h2> Cores Principais: </h2>
-
 <ul>
   <li><img src="img/readme/f1653c.png" alt="Icone de Cor"> #f1653c</li>
   <li><img src="img/readme/ccc9a1.png" alt="Icone de Cor"> #ccc9a1</li>
