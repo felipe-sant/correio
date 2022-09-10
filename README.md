@@ -1,4 +1,4 @@
-<h1> &#x1F4CB Bem Vindo ao Meus Projetos Testes! </h1>
+<h1> Bem Vindo ao Meus Projetos Testes! &#x1F4CB </h1>
 
 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem alias aut cupiditate, aspernatur nostrum cumque necessitatibus sequi quaerat officiis! Cum sit autem consectetur animi et pariatur esse doloribus hic aliquam?</p>
 
